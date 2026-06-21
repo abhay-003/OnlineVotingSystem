@@ -1,6 +1,3 @@
-# OnlineVotingSystem
-Secure REST API for an Online Voting System using Spring Boot, Spring Security, and JPA/Hibernate. Implements unique multi-table authentication for Voters and Candidates with an isolated Super-Admin bypass layer.
-
 # Online Voting System API 🗳️
 
 A secure, robust, and scalable backend RESTful API built using **Spring Boot 3.x / 4.x** and **Java 21** designed to handle an automated electoral process. This system features an advanced stateless security matrix with independent access boundaries for Voters and Candidates, managed via a unified authentication engine.
